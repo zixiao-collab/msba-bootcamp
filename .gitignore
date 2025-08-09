@@ -78,6 +78,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Course materials - ignore solution/answer key files
+KEY*
+
 # IPython
 profile_default/
 ipython_config.py
