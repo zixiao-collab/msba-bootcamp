@@ -79,7 +79,7 @@ target/
 .ipynb_checkpoints
 
 # Course materials - ignore solution/answer key files
-KEY*
+*KEY*
 
 # IPython
 profile_default/
